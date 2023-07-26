@@ -1,0 +1,112 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Nijar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-04-03T07:47:59.202Z",
+      "notes": "",
+      "position": {
+        "lat": "36.967508314568164",
+        "lng": "-2.13128394200588"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Villarroya de la Sierra",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-26T03:37:08.295Z",
+      "notes": "it was nice",
+      "position": {
+        "lat": "41.47747087512467",
+        "lng": "-1.8017578125000002"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Castilfrio de la Sierra",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-26T03:39:40.717Z",
+      "notes": "it was wonderful",
+      "position": {
+        "lat": "41.937140108168805",
+        "lng": "-2.2883754245082626"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "El Ordial",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-26T03:39:48.296Z",
+      "notes": "cool",
+      "position": {
+        "lat": "41.16413432417149",
+        "lng": "-3.1201171875"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Melgar de Arriba",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-26T03:42:35.680Z",
+      "notes": "guf",
+      "position": {
+        "lat": "42.27979339284162",
+        "lng": "-5.097656250000001"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Sotoserrano",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-26T03:43:32.329Z",
+      "notes": "",
+      "position": {
+        "lat": "40.43193487057722",
+        "lng": "-6.020507812500001"
+      },
+      "id": 98443203
+    }
+  ]
+}
